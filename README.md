@@ -16,7 +16,7 @@ while continuing to improve my programming skills through projects and coursewor
 ## Featured Projects 🧱
 > Selected projects that represent my most substantial work.
 
-### 🧠 Elea AI
+### 🧠 Elea AI (In Development)
 AI-powered mental health chat application.  
 - Focused on user experience and emotional support  
 - Built as a learning project to explore AI-assisted interfaces and application design  
@@ -28,7 +28,6 @@ Facial recognition application developed as a university project.
 
 ## Contact ✉️
 **Email:** mebnabbasi20@gmail.com  
-**LeetCode:** https://leetcode.com/u/MoWomba/
 
 ---
 > *"Those who can imagine anything, can create the impossible."*  

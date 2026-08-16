@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad 👋
+# Hi, I'm Mo 👋
 **Computer Science Student | Aspiring Software Developer**
 
 > 📌 Most repositories here are learning projects, coursework, or experiments as I continue developing my skills.
